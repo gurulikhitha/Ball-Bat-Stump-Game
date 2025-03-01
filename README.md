@@ -1,2 +1,2 @@
 # Ball-Bat-Stump-Game
-Html, Css and Js
+using internal HtmL
